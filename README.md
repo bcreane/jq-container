@@ -1,2 +1,2 @@
 # jq-container
-Minimal, secure scratch container with jq
+Minimal, secure, scratch container with jq
